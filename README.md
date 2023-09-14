@@ -9,7 +9,7 @@ cd  <www folder of you php localhost generally it is C:\xampp\www >
 git clone https://github.com/cpatel321/IRP_login_register.git
 ```
 ---
-Open [localhost/IRP_login_register](https://127.0.0.1/IRP_login_register) also don't forget to start apache and mysql server in xampp(or any other ) control panel.
+Open [localhost/IRP_login_register](http://127.0.0.1/IRP_login_register) also don't forget to start apache and mysql server in xampp(or any other ) control panel.
 
 ---
 
